@@ -1,0 +1,28 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+.color-class {
+  color: cyan;
+}
+section {
+  display: flex;
+}
+.set-flex {
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+.set-flex img {
+  width: 80%;
+  margin-bottom: 15%;
+}
+.butto-anchor {
+  text-decoration: none;
+  background-color: orangered;
+  padding: 10px 50px;
+  color: #fff;
+  border-radius: 5px;
+}
