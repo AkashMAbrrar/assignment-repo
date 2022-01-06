@@ -58,3 +58,27 @@ h1 {
 #goals {
   background-color: rgb(231, 102, 102);
 }
+.set-flex-1 {
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+.banner-second {
+  display: flex;
+}
+.banner-second img {
+  width: 50%;
+  margin: 10px;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+.banner-second-1 {
+  display: flex;
+  padding-left: 40px;
+}
+.banner-second-1 img {
+  width: 60%;
+  margin: 10px;
+  padding-left: 40px;
+  padding-top: 20px;
+}
